@@ -270,7 +270,7 @@ ul{
     border: 1px solid #ccc;
     margin-bottom: 20px;
 
-    min-height: 450px;
+    min-height: 280px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -547,4 +547,5 @@ footer span:hover{
 footer h5{
     color:white;
     font-weight: normal;
+
 }
